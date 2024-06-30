@@ -70,3 +70,5 @@ Your assignment will be evaluated based on:
 <em>This assignment is designed to assess your full-stack development skills, so feel free to showcase your capabilities and creativity. Good luck!</em>
 
 > **P.S.** Try to submit even if you haven't completed everything by the deadline.
+
+
